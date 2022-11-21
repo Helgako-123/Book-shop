@@ -1,7 +1,7 @@
 let books = [
   {
     author: "Douglas Crockford",
-    imageLink: "./Images/JS_Good_Parts1.jpg",
+    imageLink: "../Images/JS_Good_Parts1.jpg",
     title: "JavaScript: The Good Parts",
     price: 30,
     description:
@@ -9,7 +9,7 @@ let books = [
   },
   {
     author: "David Herman",
-    imageLink: "./Images/Effective_JS2.jpg",
+    imageLink: "../Images/Effective_JS2.jpg",
     title:
       "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
     price: 22,
@@ -18,7 +18,7 @@ let books = [
   },
   {
     author: "David Flanagan",
-    imageLink: "./Images/JS_Definitive _guide3.jpg",
+    imageLink: "../Images/JS_Definitive _guide3.jpg",
     title: "JavaScript: The Definitive Guide",
     price: 40,
     description:
@@ -26,7 +26,7 @@ let books = [
   },
   {
     author: " Eric Elliott",
-    imageLink: "./Images/Programming_JS4.jpg",
+    imageLink: "../Images/Programming_JS4.jpg",
     title: "Programming JavaScript Applications",
     price: 19,
     description:
@@ -34,7 +34,7 @@ let books = [
   },
   {
     author: "Addy Osmani",
-    imageLink: "./Images/JS_Design_Patterns5.jpg",
+    imageLink: "../Images/JS_Design_Patterns5.jpg",
     title: "Learning JavaScript Design Patterns",
     price: 32,
     description:
@@ -42,7 +42,7 @@ let books = [
   },
   {
     author: "Boris Cherny",
-    imageLink: "./Images/Programming_Typescript6.jpg",
+    imageLink: "../Images/Programming_Typescript6.jpg",
     title: "Programming TypeScript",
     price: 28,
     description:
@@ -50,7 +50,7 @@ let books = [
   },
   {
     author: "Alex Banks, Eve Porcello",
-    imageLink: "./Images/Learning_React7.jpg",
+    imageLink: "../Images/Learning_React7.jpg",
     title: "Learning React, 2nd Edition",
     price: 25,
     description:
@@ -58,7 +58,7 @@ let books = [
   },
   {
     author: "Bradley Meck Alex Young and Mike Cantelon",
-    imageLink: "./Images/Node.js_in_Action8.jpg",
+    imageLink: "../Images/Node.js_in_Action8.jpg",
     title: "Node.js in Action",
     price: 38,
     description:
@@ -66,7 +66,7 @@ let books = [
   },
   {
     author: "Kyle Simpson",
-    imageLink: "./Images/You_Don't_Know_JS9.jpg",
+    imageLink: "../Images/You_Don't_Know_JS9.jpg",
     title: "You Don't Know JS Yet: Get Started",
     price: 26,
     description:
@@ -74,7 +74,7 @@ let books = [
   },
   {
     author: "John Resig and Bear Bibeault",
-    imageLink: "./Images/Secrets_of_the_JavaScript_Ninja10.jpg",
+    imageLink: "../Images/Secrets_of_the_JavaScript_Ninja10.jpg",
     title: "Secrets of the JavaScript Ninja",
     price: 33,
     description:
