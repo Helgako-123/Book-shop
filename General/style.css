@@ -1,0 +1,109 @@
+body {font-family: "Roboto", sans-serif}
+
+body {width: 1600px;
+margin: 0}
+
+/*Header*/
+
+header {
+	background-image:url('../Images/front.jpg');
+	background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center;
+	margin: 0;
+	padding: 0;
+	height: 600px;
+}
+
+.header-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  background: grey;
+  align-items: center;
+  height: 70px;
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  text-decoration: none;
+}
+
+#navbar li {
+    list-style-type: none;
+    padding: 0 16px;
+    color: white;
+}
+
+#navbar li:hover {
+        color: black;
+        cursor: pointer;
+}
+
+.header-title {
+	font: Roboto;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 46.8px;
+    color: darkorange;
+    margin-left:770px;
+    margin-top:220px;
+    padding: 0;
+    text-shadow: 3px 5px 6px grey;
+}
+
+.buy_button {
+	margin-left:1090px;
+    margin-top:15px;
+    background: white;
+    border-color: grey;
+    border-radius: 10px;
+}
+
+.buy_button:hover {
+	border-color: orange;
+	cursor: pointer;
+}
+
+/*Main*/
+
+main {
+	background-color: lightgrey;
+	margin:0;
+	padding: 0;
+	height: 700px;
+}
+
+h2 {
+	margin:0;
+	color: white;
+	padding: 80px;
+	text-shadow: 3px 5px 6px grey;
+	padding-left: 700px;
+	font: Roboto;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 46.8px;
+}
+
+footer {
+	background-color: darkgrey;
+	margin:0;
+	padding: 0;
+	height: 80px;
+}
+
+.footer-text {
+	color: white;
+	font: Roboto;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 46.8px;
+    margin:0;
+    padding-left:80px;
+    padding-top:15px;
+}
