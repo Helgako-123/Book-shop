@@ -23,7 +23,7 @@ header.append(titleContainer);
 
 let shoppingBag = document.createElement("div");
 shoppingBag.className = "bag-icon";
-shoppingBag.innerHTML = `<button class="buy_button"><img src="Images/bag-icon.jpg" alt="bag-icon" width="80" height="80"></button>`;
+shoppingBag.innerHTML = `<button class="buy_button"><img src="../Images/bag-icon.jpg" alt="bag-icon" width="80" height="80"></button>`;
 header.append(shoppingBag);
 
 /*Main*/
